@@ -1,4 +1,4 @@
-# ICS20-Unit-2-0-1
+# ICS20-Unit-2-0-1-HTML
 
 [![Mr Coxall's Super Linter](https://github.com/Justin-Lavoie16/ICS20-template/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Justin-Lavoie16/ICS20-template/actions/)
 
